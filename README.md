@@ -10,11 +10,11 @@
 
 # *Project Sprints*
 
-## _Prazo do projeto: 14/07/2021 - 24/07/2021_
+## _Prazo do projeto: 14/07/2021 - 21/07/2021_
 
 ## 1 - Estrutura de páginas e navegação
 
-###### *Entrega prevista para: 20/07/2021*
+###### *Entrega prevista para: 18/07/2021*
 
 #### Estruturar o site e todas as suas seções de navegação.
 
@@ -26,7 +26,7 @@
 
 ## 2 - Catalogação de produtos e retoques adicionais
 
-###### *Entrega prevista para: 22/07/2021*
+###### *Entrega prevista para: 20/07/2021*
 
 - Caso ainda não finalizado, terminar de catalogar os produtos na section de produtos na página index;
 - Revisar e retocar CSS e HTML;
@@ -35,7 +35,7 @@
 
 ##  3 - Responsividade e finalização do projeto
 
-###### *Entrega prevista para: 24/07/2021*
+###### *Entrega prevista para: 21/07/2021*
 
 #### Tornar o site responsivo e capaz de se adpatar a qualquer tamanho de tela padrão encontrada no mercado, assim, tendo a capacidade de atender a qualquer usuário.
 
