@@ -4,7 +4,7 @@
 
 
 
-<img src="logo04.jpg" alt="Alt text" style="zoom:50%;" />
+<img src="logo04.jpg" alt="Alt text" style="zoom:35%;" />
 
 <hr>
 
