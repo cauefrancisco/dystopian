@@ -4,7 +4,7 @@
 
 
 
-<img src="/D:\cauê\Gama Academy\Dystopian\logo04.jpg" alt="Alt text" style="zoom:50%;" />
+<img src="logo04.jpg" alt="Alt text" style="zoom:50%;" />
 
 <hr>
 
