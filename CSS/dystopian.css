@@ -9,7 +9,7 @@
 
 body{
     font-family: Major Mono Display, sans-serif, monospace;
-    background-color: #ffe766;
+    /* background-color: #ffe766; */
 }
 
 /* ************************************************** */
@@ -35,6 +35,22 @@ body{
     
 }
 
+    /* body.home #navegacao li#home,
+	body.produtos #navegacao li#produtos,
+	body.sobre #navegacao li#sobre,
+	body.contato #navegacao  li#contato {
+	  	background: #ffe766;
+	  	cursor: text;
+ }
+
+ body.home #navegacao li#home a,
+ body.produtos #navegacao li#produtos a,
+ body.sobre #navegacao li#sobre a,
+ body.contato #navegacao  li#contato a {
+       background:black;
+       cursor: text;
+} */
+
 nav ul {
     display: inline-block;
     list-style: none;
@@ -48,16 +64,16 @@ nav ul li {
     margin: 10px;
 }
 
-nav ul li:hover {
-    background-color: #ffe766;
+/* nav ul li:hover {
+    background-color: white;
 }
-                
+                 */
 nav ul li a {
     color: white;
     text-decoration: none;
-    font-size: 1rem;
+    /* font-size: 1.2vw; */
 }
 
 nav ul li a:hover {
-    color: black;
+    color: #ffe766;
 }
