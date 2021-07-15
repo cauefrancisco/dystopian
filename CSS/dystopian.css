@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Major Mono Display, sans-serif, monospace;
+    background-color: #ffe766;
+}
+
+/* ************************************************** */
+
+
+#navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 2px solid white;
+    border-style: dotted;
+    background-color: black;
+}
+
+.logo {
+    flex: 1;
+    padding: 0 20px 0 20px;
+}
+
+#menu{
+    flex: 2;
+    
+}
+
+nav ul {
+    display: inline-block;
+    list-style: none;
+    /* border-bottom: 2px solid white; */
+    border-style: dotted;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+}
+
+nav ul li:hover {
+    background-color: #ffe766;
+}
+                
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+nav ul li a:hover {
+    color: black;
+}
