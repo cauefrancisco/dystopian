@@ -7,58 +7,54 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+
 body{
     font-family: Major Mono Display, sans-serif, monospace;
     /* background-color: #ffe766; */
 }
 
-/* ************************************************** */
+/* *******  Navbar and TOP ******************************************* */
+
 
 
 #navbar {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 20px;
+    margin-top: 0;
     border-bottom: 2px solid white;
     border-style: dotted;
     background-color: black;
 }
 
 .logo {
-    flex: 1;
     padding: 0 20px 0 20px;
 }
 
-#menu{
-    flex: 2;
+.menu{
+   flex: 1;
     
-}
-
-    /* body.home #navegacao li#home,
-	body.produtos #navegacao li#produtos,
-	body.sobre #navegacao li#sobre,
-	body.contato #navegacao  li#contato {
-	  	background: #ffe766;
-	  	cursor: text;
  }
 
  body.home #navegacao li#home a,
- body.produtos #navegacao li#produtos a,
+ body.colecao #navegacao li#colecao a,
  body.sobre #navegacao li#sobre a,
  body.contato #navegacao  li#contato a {
-       background:black;
+      color: #ffe766;
        cursor: text;
 } */
 
-nav ul {
+#navbar ul {
     display: inline-block;
     list-style: none;
     /* border-bottom: 2px solid white; */
     border-style: dotted;
 }
 
-nav ul li {
+#navbar ul li {
     display: inline-block;
     padding: 20px;
     margin: 10px;
@@ -68,12 +64,58 @@ nav ul li {
     background-color: white;
 }
                  */
-nav ul li a {
+#navbar ul li a {
     color: white;
     text-decoration: none;
-    /* font-size: 1.2vw; */
+   
 }
 
-nav ul li a:hover {
+#navbar ul li a:hover {
     color: #ffe766;
+}
+
+
+
+/* ************ Media Queries ************ */
+
+/* Mobile */
+
+@media (max-width: 535px) {
+
+    #navbar{
+        display: grid;
+        grid-row: auto;
+        padding: 10px;
+    }
+
+  .logo a h1{
+      font-size: 2.3vw;
+  }
+
+  .menu #navegacao li a {
+      font-size: 2vw;
+
+  }
+
+}
+
+/* Tablets  */
+
+@media (max-width: 780px) {
+
+    #navbar{
+        display: grid;
+        grid-row: auto;
+        padding: 10px;
+    }
+
+  .logo a h1{
+      font-size: 2vw;
+  }
+
+  .menu #navegacao li a {
+      font-size: 2vw;
+
+  }
+
 }
