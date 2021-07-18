@@ -14,7 +14,7 @@ a{
 body{
     font-family: Major Mono Display, sans-serif, monospace;
     font-weight: 400;
-    background-color: lightgray;
+    background-color: whitesmoke;
     /* background-color: #ffe766; */
 }
 
@@ -221,3 +221,27 @@ body{
 
   }
 
+/* main */
+
+#main {
+  position: relative;
+  top: 130px;
+  width: 100vw;
+}
+
+#main img{
+  border-radius: 10%;
+}
+
+
+#colecao{
+  margin-bottom: 20px;
+  font-style: bold;
+  font-weight: 400;
+}
+
+
+#colecao a:hover {
+  background-color: #ffe766;
+
+}
