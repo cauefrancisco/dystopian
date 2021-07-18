@@ -245,3 +245,11 @@ body{
   background-color: #ffe766;
 
 }
+
+/* Footer */
+
+footer{
+  position: relative;
+  top: 150px;
+  background: black;
+}
