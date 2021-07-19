@@ -21,17 +21,17 @@
 - [x] Criação das páginas index, coleção, contato e sobre;
 - [x] Página inicial (index), contendo link para página de produtos e foto de um produto com logo da marca;
 - [ ] Página contato, contendo um formulário de contato, com campos para nome, email, sobre e mensagem;
-- [ ] Página sobre, contendo um breve texto institucional sobre a empresa;
-- [ ] Todas as páginas já estarão estruturadas com a navbar e footer, e estilizadas com CSS/Bootstrap.
+- [x] Página sobre, contendo um breve texto institucional sobre a empresa;
+- [x] Todas as páginas já estarão estruturadas com a navbar e footer, e estilizadas com CSS/Bootstrap.
 - [ ] 
 
 ## 2 - Catalogação de produtos e retoques adicionais
 
 ###### *Entrega prevista para: 20/07/2021*
 
-- [ ] Edição da página 'coleção' e catalogação de produtos na section de produtos da página;
-- [ ] Revisar e retocar CSS e HTML, alinhando com o estilo do Bootstrap;
-- [ ] Analisar e avaliar usabilidade do site;
+- [x] Edição da página 'coleção' e catalogação de produtos na section de produtos da página;
+- [x] Revisar e retocar CSS e HTML, alinhando com o estilo do Bootstrap;
+- [x] Analisar e avaliar usabilidade do site;
 
 ##  3 - Responsividade e finalização do projeto
 
@@ -41,7 +41,7 @@
 
 - [x] Navbar terá Media Queries para responsividade;
 - [x] Iniciar testes em telas grandes (monitores), depois telas médias (notebook e tablets), para finalmente testar em telas menores (smartphones);
-- [ ] e os testes passarem, o projeto estará finalizado.
+- [x] e os testes passarem, o projeto estará finalizado.
 
 
 
