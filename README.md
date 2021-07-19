@@ -23,7 +23,6 @@
 - [ ] Página contato, contendo um formulário de contato, com campos para nome, email, sobre e mensagem;
 - [x] Página sobre, contendo um breve texto institucional sobre a empresa;
 - [x] Todas as páginas já estarão estruturadas com a navbar e footer, e estilizadas com CSS/Bootstrap.
-- [ ] 
 
 ## 2 - Catalogação de produtos e retoques adicionais
 
