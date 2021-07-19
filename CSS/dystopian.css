@@ -201,6 +201,8 @@ body{
     nav a:hover::before {
       transform: scale(1,1);
     }
+
+   
   }
 
   @media screen and (max-width: 800px) {
@@ -242,7 +244,7 @@ body{
 }
 
 
-#colecao a:hover {
+.colecao a:hover {
   background-color: #ffe766;
 
 }
@@ -258,6 +260,11 @@ body{
 #filter a:hover {
   background-color: #ffe766;
 
+}
+
+.social i {
+  font-size: 2rem;
+  padding: 2rem;
 }
 
 /* Footer */
