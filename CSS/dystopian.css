@@ -267,6 +267,17 @@ body{
   padding: 2rem;
 }
 
+.contact{
+  position: relative;
+  top: 130px;
+  margin: 0 2rem 0 2rem;
+  text-align:start;
+}
+
+textarea{
+  display: block;
+}
+
 /* Footer */
 
 footer{

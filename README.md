@@ -20,7 +20,7 @@
 
 - [x] Criação das páginas index, coleção, contato e sobre;
 - [x] Página inicial (index), contendo link para página de produtos e foto de um produto com logo da marca;
-- [ ] Página contato, contendo um formulário de contato, com campos para nome, email, sobre e mensagem;
+- [x] Página contato, contendo um formulário de contato, com campos para nome, email, sobre e mensagem;
 - [x] Página sobre, contendo um breve texto institucional sobre a empresa;
 - [x] Todas as páginas já estarão estruturadas com a navbar e footer, e estilizadas com CSS/Bootstrap.
 
@@ -41,6 +41,16 @@
 - [x] Navbar terá Media Queries para responsividade;
 - [x] Iniciar testes em telas grandes (monitores), depois telas médias (notebook e tablets), para finalmente testar em telas menores (smartphones);
 - [x] e os testes passarem, o projeto estará finalizado.
+
+<hr>
+
+_Projeto finalizado com sucesso_
+
+#### *Linguagens usadas:*
+
+- HTML5
+- CSS3
+- Bootstrap 5
 
 
 
